@@ -1,5 +1,5 @@
 import string
-import getpass
+import getpas
 
 COMMON_PASSWORDS = {
     "password", "12345678", "qwerty123",
